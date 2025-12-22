@@ -1,0 +1,44 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Barbara Formica Bowman",
+  "ingredients": [
+    "2 cans crushed tomatoes – 28 oz. cans",
+    "1-2 cloves garlic"
+  ],
+  "instructions": [
+    "Ingredients:",
+    "Salt",
+    "Pepper",
+    "Red pepper",
+    "Oregano and thyme (or Italian seasoning)",
+    "Chopped onion",
+    "Preparation:",
+    "Step 1:",
+    "Put tomatoes in large saucepan with about ¼ of tomato can filled with water",
+    "Step 2:",
+    "Add salt, pepper, red pepper, oregano, thyme, or Italian seasoning.",
+    "Step 3:",
+    "Bring to a boil then lower to a simmer for 3-4 hours",
+    "Step 4:",
+    "Add water if it gets too thick",
+    "Step 5:",
+    "Burns easily so stir frequently while cooking",
+    "Step 6:",
+    "Make & brown meatballs and sausage",
+    "Step 7:",
+    "Add to sauce",
+    "Step 8:",
+    "Brown lightly chopped onion and garlic",
+    "Step 9:",
+    "Add to sauce.",
+    "BARBARA FORMICA BOWMAN’SMeatballs:",
+    "By:"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "BARBARA FORMICA BOWMAN"
+  }
+}

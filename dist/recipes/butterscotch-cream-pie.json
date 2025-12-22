@@ -1,0 +1,15 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Butterscotch Cream Pie",
+  "ingredients": [],
+  "instructions": [
+    "Substitute ¾ cup well-packed dark-brown sugar for the granulated sugar."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "BUTTERSCOTCH CREAM PIE"
+  }
+}

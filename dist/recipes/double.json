@@ -1,0 +1,18 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Double",
+  "ingredients": [
+    "1 1/3 + 4 tbsp. shortening",
+    "4 cups flour",
+    "2 tsp. salt",
+    "8 to 10 tbsp. cold water"
+  ],
+  "instructions": [],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "DOUBLE"
+  }
+}

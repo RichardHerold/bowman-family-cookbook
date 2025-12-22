@@ -1,0 +1,32 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "New England Pumpkin Pie",
+  "ingredients": [
+    "1 can one-pie pumpkin",
+    "1 ½ cups milk of 1-12 oz. can evaporated",
+    "1 tbsp. cornstarch",
+    "½ tsp. ginger",
+    "1 cup sugar",
+    "½ tsp. nutmeg",
+    "½ tsp. salt",
+    "1/8 cup molasses",
+    "2 eggs (beaten)",
+    "1 ½ tbsp. butter (melted)"
+  ],
+  "instructions": [
+    "Sift sugar, cornstarch, salt, cinnamon, ginger and nutmeg together.",
+    "Mix this with contents of one can one-pie pumpkin.",
+    "Add eggs, beaten, melted butter, molasses and milk.  Add a dash of lemon juice (if desired).",
+    "Line a 9-inch pie plate, pour in contents.",
+    "Preheat oven and bake at 450 for 15 minutes.",
+    "Then reduce temperature to 350 and continue to bake for 50 minutes.",
+    "Betty Crocker was almost as good as Mary Bowman"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "NEW ENGLAND PUMPKIN PIE"
+  }
+}

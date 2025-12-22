@@ -1,0 +1,44 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Strawberry Shortcakes",
+  "ingredients": [
+    "4 Cups Sliced Strawberries (1 Qt)",
+    "½ Cup Sugar",
+    "2 1/3 Cups Original Bisquick Mix",
+    "½ Cup Milk",
+    "3 Tbsp Sugar",
+    "3 Tbsp Butter or margarine, melted",
+    "1 Container (8 oz.) frozen whipped topping, thawed",
+    "1 egg white",
+    "1 cup sugar",
+    "¼ tsp. vanilla",
+    "¼ tsp. cream of tartar",
+    "½ cup boiling water",
+    "2 egg whites",
+    "¾ cup karo crystal-clear or all-purpose syrup",
+    "¼ tsp. salt",
+    "¼ cup sugar",
+    "1 ¼ tsp. vanilla"
+  ],
+  "instructions": [
+    "Prep Time: 6 min\tBake Time: 12 Min",
+    "•\tMix strawberries and ½ cup sugar; set aside.",
+    "•\tHeat oven to 425°F. Stir Bisquick mix, milk, 3 tbsp sugar and butter until soft dough forms.",
+    "•\tDrop by 6 spoonful’s onto ungreased cookie sheet. Bake 10-12 min or until golden brown.",
+    "•\tSplit warm shortcakes; fill and top with strawberries and whipped topping. 6 shortcakes",
+    "MARY BOWMAN’S 7 MINUTE FROSTING – FLUFFY FROSTING",
+    "Combine in bowl and beat until thick.",
+    "MARY BOWMAN’S NO-COOK MARSHMALLOW FROSTING – FOR 1-2-3-4 CAKE",
+    "Beat egg whites and salt with electric or rotary beater until soft peaks form.",
+    "Add sugar, about 1 tbsp. at a time, beating until smooth and glossy.",
+    "Continue beating and adding karo syrup, a little at a time, beating after each addition, until frosting peaks.",
+    "Fold in vanilla.  Makes enough to frost 2 (9-inch) layers"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "STRAWBERRY SHORTCAKES"
+  }
+}

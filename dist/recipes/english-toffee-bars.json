@@ -1,0 +1,35 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "English Toffee Bars",
+  "ingredients": [
+    "½ cup quick-cooking oats",
+    "½ cup packed brown sugar",
+    "½ basic dough (see above)",
+    "1/2 cup semi-sweet chocolate pieces",
+    "½ cup chopped nuts",
+    "20 to 30 minutes."
+  ],
+  "instructions": [
+    "Heat oven to 350 degrees.  Grease oblong pan, 13x9x2 inches.",
+    "To one half basic dough, mix in ½ cup quick-cooking oats and ½ cup brown sugar (packed).  (Dough will be crumbly).",
+    "Par firmly and evenly into prepared pan.",
+    "Bake about 15 minutes or until no imprint remains when lightly touched with finger.",
+    "Remove from oven; immediately sprinkle ½ cup semi-sweet chocolate pieces evenly over crust.  Place baking sheet over pan so contained heat will soften chocolate pieces.",
+    "Spread softened chocolate evenly over crust; sprinkle with ½ cup chopped nuts.  While warm, cut into 1 ½ inch diamond shapes.  Makes about 2 ½ dozen.",
+    "GRAM BOWMAN’S PIE CRUST MUFFINS",
+    "Make triple pie recipe (see page 51)",
+    "Use glass to cut into round shaped pastry",
+    "Place in the bottom of muffin pan",
+    "Fill with strawberry preserves or apricot any kind of preserves that you like.",
+    "Use box or homemade* white cake mix added on top of preserves",
+    "Bake at 375",
+    "*Eddie prefers homemade. Usually made from scraps when making pies."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "ENGLISH TOFFEE BARS"
+  }
+}

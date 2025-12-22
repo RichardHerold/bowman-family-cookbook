@@ -1,0 +1,22 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Scottish Shortbread",
+  "ingredients": [
+    "½ pound butter (no substitute)",
+    "½ cup sugar",
+    "3 cups flour"
+  ],
+  "instructions": [
+    "With a wooden spoon, cream the butter and sugar.",
+    "Add 1 cup of flour and mix well.  Add second cup. Mix well, and finally the last cup.  You may have to work in the final cup with your hands.",
+    "Pat the dough firmly into an 8x8 inch cake pan and bake at 325 for 50 minutes.",
+    "Before you bake, make a fancy design on the outer edges with the tines of a fork."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "SCOTTISH SHORTBREAD"
+  }
+}

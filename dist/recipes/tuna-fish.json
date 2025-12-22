@@ -1,0 +1,23 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Tuna Fish",
+  "ingredients": [
+    "1",
+    "small pieces of celery or onion, if you like"
+  ],
+  "instructions": [
+    "Only use bumble bee white albacore in water",
+    "Drain well, wash with water drain well again",
+    "With fork - break up into very small pieces",
+    "Add 1 to 2 tbsp of Hellman’s mayo",
+    "Mix well",
+    "Add small pieces of celery or onion, if you like"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "TUNA FISH"
+  }
+}

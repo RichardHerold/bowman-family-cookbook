@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/icon-192.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <title>Soustack Recipes</title>
+    <script>
+      // Replace with your Google Tasks OAuth client ID (safe to expose)
+      window.GOOGLE_TASKS_CLIENT_ID = window.GOOGLE_TASKS_CLIENT_ID || '';
+      // Make BASE_URL available globally - detect from current path
+      window.BASE_URL = (function() {
+        const path = window.location.pathname;
+        if (path.startsWith('/soustack/')) return '/soustack/';
+        return '/';
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-CO3iFAtY.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BKVa2JRg.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>

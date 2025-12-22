@@ -1,0 +1,28 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Nancy Bowmans Famous Magic Bars",
+  "ingredients": [
+    "1 stick butter",
+    "1 ½ cups graham cracker crumbs",
+    "1 cup chocolate chips",
+    "1 cup butter scotch chips",
+    "1 can eagle brand condensed milk",
+    "1 bag sweeten coconut flakes"
+  ],
+  "instructions": [
+    "Preheat oven to 325",
+    "Melt butter in glass 9 x 13 pan",
+    "Dump in crumbs mix with melted butter,",
+    "press to make crust",
+    "Add milk, 2 layers of chips, coconut",
+    "press down gently with fork",
+    "Bake 25-35 minutes till edges are brown cool completely before cutting"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "NANCY BOWMANS FAMOUS MAGIC BARS"
+  }
+}

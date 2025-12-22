@@ -1,0 +1,47 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Sunshine Loaf",
+  "ingredients": [
+    "3 cups Bisquick",
+    "½ cup sugar",
+    "3 eggs",
+    "1 tbsp. grated orange peel",
+    "½ cup orange juice",
+    "1 pkg. (8 oz.) Pitted dates, cut up",
+    "2 large bananas, mashed",
+    "2/3 cup vegetable. oil",
+    "2 2/3 cups sugar",
+    "4 eggs",
+    "3 cups shredded zucchini",
+    "2/3 cup water",
+    "3 1/3 cups flour",
+    "3 tsp. baking soda",
+    "1 ½ tsp. salt",
+    "½ tsp. baking powder",
+    "1 tsp. cinnamon",
+    "1 tsp. ground cloves",
+    "2 tsp. vanilla"
+  ],
+  "instructions": [
+    "Heat oven to 350.",
+    "Blend all ingredients in large mixer bowl ½ minute, scraping bowl frequently.",
+    "Beat 2 minutes medium speed.",
+    "Pour batter into greased & floured loaf pan (9x5x3).",
+    "Bake about 1 hour and 10 minutes or until toothpick inserted in center comes out clean.",
+    "Cool 10 minutes, remove from pan.",
+    "Cool thoroughly before slicing.",
+    "From the kitchen of Anne Wolff Regan.",
+    "NANCY BOWMAN’S ZUCCHINI BREAD",
+    "Grease bottoms of 2 loaf pans.  Mix oil and sugar, add eggs, zucchini and water.",
+    "Blend in flour, baking soda, salt, baking powder, cinnamon & cloves.",
+    "Pour into pans.",
+    "Bake at 350 for 10 minutes."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "SUNSHINE LOAF"
+  }
+}
