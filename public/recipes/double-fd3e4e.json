@@ -1,0 +1,52 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Double",
+  "ingredients": [
+    "3 cups sugar",
+    "3 cups flour",
+    "6 eggs separated",
+    "3 or 4 tsp. baking powder",
+    "1 cup hot water",
+    "2 tsp. vanilla",
+    "2 tsp. lemon extract",
+    "1 tsp. salt",
+    "½ Cup. shortening",
+    "1 Cup. sugar",
+    "1 heaping coffee mug of applesauce (homemade unsweetened)",
+    "1 tsp. nutmeg",
+    "1 tsp. baking soda",
+    "1 Cup. raisins",
+    "¾ Cup. walnuts",
+    "1 tsp. cinnamon",
+    "½ tsp. allspice",
+    "½ tsp. cloves",
+    "2 Cup. flour (regular)",
+    "½ tsp. vanilla extract",
+    "½ tsp. lemon extract"
+  ],
+  "instructions": [
+    "Separate eggs and beat whites first.  Set aside.",
+    "Add sugar to yolks and beat.",
+    "Add flour (sifted with baking powder and salt) to egg and sugar mixture alternating with hot water and extracts.",
+    "Fold in egg whites by hand.",
+    "For single recipe bake 325 for 30-40 minutes.",
+    "For large pan bake 1 ¼ hours.",
+    "For round pan, use double recipe.",
+    "MARION DEVYLDER’S APPLESAUCE CAKE",
+    "Cream shortening & sugar.",
+    "Add applesauce and before stirring add spices on top of applesauce.",
+    "Stir.",
+    "Sift flour & baking soda together.",
+    "Add nuts & raisins to flour mixture.  This is done by hand.",
+    "Bake at 325/350 for 1 hour in a loaf pan lined with wax paper/Crisco.",
+    "Test for doneness.",
+    "Top with butter frosting."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "DOUBLE"
+  }
+}

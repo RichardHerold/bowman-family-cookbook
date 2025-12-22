@@ -1,0 +1,34 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Chinese Chewies",
+  "ingredients": [
+    "1 stick butter",
+    "1 tsp. Vanilla",
+    "1 cup sugar",
+    "½ lb. Dates (8 oz. Package)",
+    "2 eggs",
+    "1 cup chopped walnuts",
+    "1 cup flour",
+    "¼ tsp. Salt"
+  ],
+  "instructions": [
+    "Cream butter well.",
+    "Add sugar – cream again.",
+    "Beat eggs and add to cream mixture.",
+    "Beat very well.",
+    "Add flour and salt.",
+    "Add vanilla.",
+    "Fold in dates and nuts.",
+    "Pour into 8x8 pan – well greased.",
+    "Bake at 350 for 25-30 minutes or until golden.",
+    "Cool slightly and cut into small squares.",
+    "Roll in confectionery sugar."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "CHINESE CHEWIES"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Cinnamon Toast And Butter",
+  "ingredients": [
+    "white bread",
+    "soft butter",
+    "cinnamon/sugar mix"
+  ],
+  "instructions": [
+    "Toast the white bread",
+    "Add soft butter onto toast",
+    "Sprinkle the cinnamon/sugar mix",
+    "Delicious!"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "CINNAMON TOAST AND BUTTER"
+  }
+}

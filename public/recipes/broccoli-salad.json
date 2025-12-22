@@ -1,0 +1,28 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Broccoli Salad",
+  "ingredients": [
+    "1 bunch broccoli-w/chopped stem",
+    "1 small red onion-chopped",
+    "1 cup shredded cheddar cheese",
+    "6 slices cooked bacon-crispy",
+    "½ cup mayo",
+    "¼ cups apple cider vinegar",
+    "2 tablespoons sugar"
+  ],
+  "instructions": [
+    "By:",
+    "Unknown",
+    "Ingredients:",
+    "Preparation:",
+    "Step 1:",
+    "Mix all together and marinate 8 hours."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "BROCCOLI SALAD"
+  }
+}

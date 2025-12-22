@@ -1,0 +1,30 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Sugar And Spice Cookies",
+  "ingredients": [
+    "¾ Cup shortening",
+    "1 cup sugar",
+    "1 egg",
+    "¼ cup molasses",
+    "2 cups flour",
+    "2 tsp. Baking soda",
+    "¼ tsp. Salt",
+    "1 tsp. Cinnamon",
+    "¾ tsp. Ground cloves",
+    "¾ tsp. Ginger"
+  ],
+  "instructions": [
+    "Mix shortening, sugar, egg and molasses.",
+    "Sift and stir in dry ingredients.",
+    "Form into balls about 1 inch in diameter, then roll lightly in granulated sugar.",
+    "Place on a cookie sheet",
+    "Bake at 375 for 10 to 12 minutes."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "SUGAR AND SPICE COOKIES"
+  }
+}

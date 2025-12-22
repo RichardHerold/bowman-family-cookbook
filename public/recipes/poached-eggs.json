@@ -1,0 +1,16 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Poached Eggs",
+  "ingredients": [],
+  "instructions": [
+    "Heat water (1 ½ to 2 inches) to boiling; reduce to simmering.  Break each egg into custard cup or saucer; holding cup or saucer close to water’s surface.  Slip 1 egg at a time into water.",
+    "Cook until desired doneness, 3 to 5 minutes.  Remove eggs from water with slotted spoon."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "POACHED EGGS"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Basic Dough",
+  "ingredients": [
+    "1 cup butter or margarine, softened",
+    "1 ½ cups confectioners’ sugar",
+    "1 egg",
+    "1 teaspoon vanilla",
+    "2 ½ cups gold medal flour (gold medal self-rising flour can be used in this recipe)"
+  ],
+  "instructions": [
+    "Used for English Toffee Bars"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "BASIC DOUGH"
+  }
+}

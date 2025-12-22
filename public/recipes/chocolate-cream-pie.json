@@ -1,0 +1,15 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Chocolate Cream Pie",
+  "ingredients": [],
+  "instructions": [
+    "Increase the sugar to 1 cup and add 3 tablespoon of powered chocolate to the cornstarch.  Melt 4 oz. Semisweet chocolate in 250 oven and stir into the cooked filling with the butter.  Pour into the baked pie shell."
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "CHOCOLATE CREAM PIE"
+  }
+}

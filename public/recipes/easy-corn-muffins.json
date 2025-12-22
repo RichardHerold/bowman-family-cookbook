@@ -1,0 +1,30 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "level": "lite",
+  "profile": "lite",
+  "stacks": {},
+  "name": "Easy Corn Muffins",
+  "ingredients": [
+    "1 ¼ cups all-purpose flour",
+    "¾ cup Quaker or Aunt Jamima enriched corn meal",
+    "¼ cup sugar",
+    "2 tsp. Baking powder",
+    "½ tsp. Salt (optional)",
+    "1 cup skim milk",
+    "¼ cup vegetable oil",
+    "2 egg whites or 1 egg, beaten"
+  ],
+  "instructions": [
+    "Heat oven to 400.",
+    "Grease 8 or 9-inch baking pan.",
+    "Combine dry ingredients.",
+    "Stir in milk, oil and egg, mixing just until dry ingredients are moistened.",
+    "Pour batter into prepared pan.",
+    "Bake 20 to 25 minutes or until light golden brown and wooden pick inserted near center comes out clean.  Serve warm.  9 servings.",
+    "Or better yet mix up a box of Jiffy Corn Muffin Mix"
+  ],
+  "metadata": {
+    "source": "Bowman Family Cookbook (2011)",
+    "originalTitle": "EASY CORN MUFFINS"
+  }
+}
