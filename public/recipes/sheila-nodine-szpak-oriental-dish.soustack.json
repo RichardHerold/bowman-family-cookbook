@@ -40,5 +40,10 @@
       }
     },
     "author": "Sheila Nodine-Szpak"
-  }
+  },
+  "category": "Main Course",
+  "description": "Asian-inspired dish",
+  "tags": [
+    "main-course"
+  ]
 }

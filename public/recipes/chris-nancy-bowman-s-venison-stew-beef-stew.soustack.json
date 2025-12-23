@@ -41,5 +41,10 @@
         "end": 688
       }
     }
-  }
+  },
+  "category": "Main Course",
+  "description": "Hearty venison or beef stew",
+  "tags": [
+    "main-course"
+  ]
 }

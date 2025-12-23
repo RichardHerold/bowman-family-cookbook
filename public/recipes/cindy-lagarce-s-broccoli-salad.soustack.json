@@ -28,5 +28,10 @@
       }
     },
     "author": "Cindy Lagarce"
-  }
+  },
+  "category": "Salad",
+  "description": "Broccoli salad variation",
+  "tags": [
+    "salad"
+  ]
 }

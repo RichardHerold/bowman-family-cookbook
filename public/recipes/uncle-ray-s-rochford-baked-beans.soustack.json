@@ -29,5 +29,10 @@
       }
     },
     "author": "Ray Rochford"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Family recipe for baked beans",
+  "tags": [
+    "side-dish"
+  ]
 }

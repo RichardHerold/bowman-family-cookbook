@@ -25,5 +25,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Dressing",
+  "description": "Dressing for potato and coleslaw salads",
+  "tags": [
+    "dressing"
+  ]
 }

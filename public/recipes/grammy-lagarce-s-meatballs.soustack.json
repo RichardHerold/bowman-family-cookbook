@@ -27,5 +27,10 @@
         "end": 1307
       }
     }
-  }
+  },
+  "category": "Main Course",
+  "description": "Italian-style meatballs",
+  "tags": [
+    "main-course"
+  ]
 }

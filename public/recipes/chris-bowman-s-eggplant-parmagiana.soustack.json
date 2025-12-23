@@ -36,5 +36,10 @@
       }
     },
     "author": "Chris Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Breaded eggplant with marinara and cheese",
+  "tags": [
+    "main-course"
+  ]
 }

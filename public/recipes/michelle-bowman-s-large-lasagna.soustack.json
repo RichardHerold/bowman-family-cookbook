@@ -36,5 +36,10 @@
       }
     },
     "author": "Michelle Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Large family-size lasagna",
+  "tags": [
+    "main-course"
+  ]
 }

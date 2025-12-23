@@ -28,5 +28,10 @@
       }
     },
     "author": "Sally Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Poached salmon",
+  "tags": [
+    "main-course"
+  ]
 }

@@ -37,5 +37,10 @@
       }
     },
     "author": "Katie Gaetani"
-  }
+  },
+  "category": "Main Course",
+  "description": "Family-favorite meatloaf recipe",
+  "tags": [
+    "main-course"
+  ]
 }

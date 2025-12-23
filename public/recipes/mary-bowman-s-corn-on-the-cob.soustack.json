@@ -25,5 +25,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Corn on the cob",
+  "tags": [
+    "side-dish"
+  ]
 }

@@ -38,5 +38,10 @@
       }
     },
     "author": "Chuck Lagarce"
-  }
+  },
+  "category": "Main Course",
+  "description": "Pasta with shrimp",
+  "tags": [
+    "main-course"
+  ]
 }

@@ -28,5 +28,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "American-style chop suey with ground beef",
+  "tags": [
+    "main-course"
+  ]
 }

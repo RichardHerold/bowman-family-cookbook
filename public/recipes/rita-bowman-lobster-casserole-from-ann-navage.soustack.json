@@ -35,5 +35,10 @@
       }
     },
     "author": "Rita  Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Rich lobster casserole",
+  "tags": [
+    "main-course"
+  ]
 }

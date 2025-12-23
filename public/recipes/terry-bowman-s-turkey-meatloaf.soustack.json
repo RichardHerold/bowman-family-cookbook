@@ -30,5 +30,10 @@
       }
     },
     "author": "Terry Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Lean turkey meatloaf",
+  "tags": [
+    "main-course"
+  ]
 }

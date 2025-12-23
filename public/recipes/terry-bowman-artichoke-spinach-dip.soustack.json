@@ -30,5 +30,10 @@
       }
     },
     "author": "Terry Bowman"
-  }
+  },
+  "category": "Appetizer",
+  "description": "Baked artichoke and spinach dip with cream cheese and parmesan",
+  "tags": [
+    "appetizer"
+  ]
 }

@@ -45,5 +45,10 @@
       }
     },
     "author": "Rita Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Pan-fried crab cakes with fresh herbs",
+  "tags": [
+    "main-course"
+  ]
 }

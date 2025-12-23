@@ -41,5 +41,10 @@
         "end": 1834
       }
     }
-  }
+  },
+  "category": "Side Dish",
+  "description": "Family recipe for turkey dressing",
+  "tags": [
+    "side-dish"
+  ]
 }

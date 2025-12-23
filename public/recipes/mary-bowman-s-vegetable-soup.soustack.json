@@ -27,5 +27,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Soup",
+  "description": "Hearty vegetable soup with meat",
+  "tags": [
+    "soup"
+  ]
 }

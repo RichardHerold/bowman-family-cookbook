@@ -30,5 +30,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Salad",
+  "description": "Fresh green salad",
+  "tags": [
+    "salad"
+  ]
 }

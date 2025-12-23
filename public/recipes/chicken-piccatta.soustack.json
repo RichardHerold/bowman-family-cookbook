@@ -36,5 +36,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Main Course",
+  "description": "Tender chicken in a lemon and white wine sauce",
+  "tags": [
+    "main-course"
+  ]
 }

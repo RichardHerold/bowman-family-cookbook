@@ -57,5 +57,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Scalloped potatoes",
+  "tags": [
+    "side-dish"
+  ]
 }

@@ -61,5 +61,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Salad",
+  "description": "Fresh broccoli salad with bacon and cheese",
+  "tags": [
+    "salad"
+  ]
 }

@@ -31,5 +31,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Tender slow-cooked pot roast",
+  "tags": [
+    "main-course"
+  ]
 }

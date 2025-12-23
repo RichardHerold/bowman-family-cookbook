@@ -23,5 +23,10 @@
         "end": 1325
       }
     }
-  }
+  },
+  "category": "Other",
+  "description": "Homemade Italian sausage",
+  "tags": [
+    "other"
+  ]
 }

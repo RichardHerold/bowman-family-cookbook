@@ -36,5 +36,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Creamy baked macaroni and cheese with Ritz cracker topping",
+  "tags": [
+    "main-course"
+  ]
 }

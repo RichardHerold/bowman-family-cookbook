@@ -25,5 +25,10 @@
       }
     },
     "author": "Terry Bowman"
-  }
+  },
+  "category": "Appetizer",
+  "description": "Spicy layered dip with beans and cheese",
+  "tags": [
+    "appetizer"
+  ]
 }

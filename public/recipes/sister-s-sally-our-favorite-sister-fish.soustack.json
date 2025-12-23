@@ -34,5 +34,10 @@
       }
     },
     "author": "Sally Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Family favorite fish recipe",
+  "tags": [
+    "main-course"
+  ]
 }

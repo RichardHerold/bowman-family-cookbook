@@ -39,5 +39,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Main Course",
+  "description": "Chicken breasts stuffed with mozzarella, breaded and baked",
+  "tags": [
+    "main-course"
+  ]
 }

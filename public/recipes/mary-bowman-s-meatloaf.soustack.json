@@ -36,5 +36,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Traditional meatloaf",
+  "tags": [
+    "main-course"
+  ]
 }

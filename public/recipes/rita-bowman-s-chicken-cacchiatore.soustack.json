@@ -37,5 +37,10 @@
       }
     },
     "author": "Rita Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Italian-style chicken with tomatoes, peppers, and herbs",
+  "tags": [
+    "main-course"
+  ]
 }

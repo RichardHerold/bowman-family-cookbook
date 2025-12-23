@@ -33,5 +33,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Sweet and savory baked beans",
+  "tags": [
+    "side-dish"
+  ]
 }

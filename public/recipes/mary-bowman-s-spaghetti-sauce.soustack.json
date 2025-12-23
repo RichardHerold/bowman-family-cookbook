@@ -24,5 +24,10 @@
       }
     },
     "author": "Marry Bowman"
-  }
+  },
+  "category": "Sauce",
+  "description": "Homemade spaghetti sauce",
+  "tags": [
+    "sauce"
+  ]
 }

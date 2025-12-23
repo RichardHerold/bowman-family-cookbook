@@ -26,5 +26,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Layered casserole with mashed potatoes and ground beef",
+  "tags": [
+    "main-course"
+  ]
 }

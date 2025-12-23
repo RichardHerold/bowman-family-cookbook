@@ -24,5 +24,10 @@
       }
     },
     "author": "Michelle Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Marinated flank steak",
+  "tags": [
+    "main-course"
+  ]
 }

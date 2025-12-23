@@ -27,5 +27,10 @@
       }
     },
     "author": "Mimi Falvey"
-  }
+  },
+  "category": "Main Course",
+  "description": "Sweet and sour kielbasa",
+  "tags": [
+    "main-course"
+  ]
 }

@@ -28,5 +28,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Wild rice stuffing",
+  "tags": [
+    "side-dish"
+  ]
 }

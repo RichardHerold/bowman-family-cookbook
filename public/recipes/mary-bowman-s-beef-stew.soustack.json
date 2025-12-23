@@ -38,5 +38,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Classic beef stew with vegetables",
+  "tags": [
+    "main-course"
+  ]
 }

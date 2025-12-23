@@ -37,5 +37,10 @@
       }
     },
     "author": "Sandra Wolff"
-  }
+  },
+  "category": "Main Course",
+  "description": "Swedish-style meatballs in creamy sauce",
+  "tags": [
+    "main-course"
+  ]
 }

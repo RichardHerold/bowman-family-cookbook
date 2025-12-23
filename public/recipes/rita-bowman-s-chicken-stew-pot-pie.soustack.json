@@ -42,5 +42,10 @@
       }
     },
     "author": "Rita Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Hearty chicken stew that can be served as pot pie",
+  "tags": [
+    "main-course"
+  ]
 }

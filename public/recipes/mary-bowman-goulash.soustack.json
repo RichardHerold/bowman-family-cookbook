@@ -29,5 +29,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Hungarian-style goulash",
+  "tags": [
+    "main-course"
+  ]
 }

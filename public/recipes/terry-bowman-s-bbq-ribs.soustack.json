@@ -25,5 +25,10 @@
       }
     },
     "author": "Terry Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Barbecue-style ribs",
+  "tags": [
+    "main-course"
+  ]
 }

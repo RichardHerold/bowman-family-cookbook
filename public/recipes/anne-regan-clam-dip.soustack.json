@@ -32,5 +32,10 @@
       }
     },
     "author": "Anne Regan"
-  }
+  },
+  "category": "Appetizer",
+  "description": "Creamy clam dip perfect for parties",
+  "tags": [
+    "appetizer"
+  ]
 }

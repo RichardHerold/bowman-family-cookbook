@@ -39,5 +39,10 @@
       }
     },
     "author": "Rita Bowman"
-  }
+  },
+  "category": "Soup",
+  "description": "Creamy New England-style clam chowder",
+  "tags": [
+    "soup"
+  ]
 }

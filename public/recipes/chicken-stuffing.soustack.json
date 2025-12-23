@@ -24,5 +24,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Traditional chicken stuffing",
+  "tags": [
+    "side-dish"
+  ]
 }

@@ -35,5 +35,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Salad",
+  "description": "Chopped vegetable salad",
+  "tags": [
+    "salad"
+  ]
 }

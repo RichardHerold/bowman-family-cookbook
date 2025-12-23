@@ -29,5 +29,10 @@
       }
     },
     "author": "Rita Bowman"
-  }
+  },
+  "category": "Soup",
+  "description": "Creamy butternut squash soup",
+  "tags": [
+    "soup"
+  ]
 }

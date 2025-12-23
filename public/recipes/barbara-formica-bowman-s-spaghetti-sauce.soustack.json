@@ -48,5 +48,10 @@
       }
     },
     "author": "BARBARA FORMICA BOWMAN"
-  }
+  },
+  "category": "Sauce",
+  "description": "Family spaghetti sauce recipe",
+  "tags": [
+    "sauce"
+  ]
 }

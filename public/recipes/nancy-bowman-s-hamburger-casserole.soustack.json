@@ -33,5 +33,10 @@
       }
     },
     "author": "Nanny Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Comforting hamburger casserole",
+  "tags": [
+    "main-course"
+  ]
 }

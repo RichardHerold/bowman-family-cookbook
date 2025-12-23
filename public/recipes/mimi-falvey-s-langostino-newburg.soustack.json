@@ -37,5 +37,10 @@
       }
     },
     "author": "Mimi Falvey"
-  }
+  },
+  "category": "Main Course",
+  "description": "Creamy langostino Newburg",
+  "tags": [
+    "main-course"
+  ]
 }

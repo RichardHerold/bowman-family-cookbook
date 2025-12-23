@@ -25,5 +25,10 @@
       }
     },
     "author": "Anne Lagarce"
-  }
+  },
+  "category": "Side Dish",
+  "description": "Baked acorn squash",
+  "tags": [
+    "side-dish"
+  ]
 }

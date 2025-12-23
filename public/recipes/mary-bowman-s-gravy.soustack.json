@@ -23,5 +23,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Sauce",
+  "description": "Homemade gravy",
+  "tags": [
+    "sauce"
+  ]
 }

@@ -31,5 +31,10 @@
       }
     },
     "author": "Rita Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Baked salmon fillet",
+  "tags": [
+    "main-course"
+  ]
 }

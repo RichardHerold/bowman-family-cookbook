@@ -26,5 +26,10 @@
       }
     },
     "author": "Michelle Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Marinade for pork",
+  "tags": [
+    "main-course"
+  ]
 }

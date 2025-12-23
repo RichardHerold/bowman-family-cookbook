@@ -50,5 +50,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Appetizer",
+  "description": "Warm and savory clam spread",
+  "tags": [
+    "appetizer"
+  ]
 }

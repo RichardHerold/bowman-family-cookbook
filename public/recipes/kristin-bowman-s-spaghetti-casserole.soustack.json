@@ -33,5 +33,10 @@
       }
     },
     "author": "Kristin Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Baked spaghetti casserole",
+  "tags": [
+    "main-course"
+  ]
 }

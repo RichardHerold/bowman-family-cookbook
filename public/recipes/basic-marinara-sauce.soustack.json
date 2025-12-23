@@ -38,5 +38,10 @@
       }
     },
     "author": "Unknown"
-  }
+  },
+  "category": "Sauce",
+  "description": "Basic marinara sauce",
+  "tags": [
+    "sauce"
+  ]
 }

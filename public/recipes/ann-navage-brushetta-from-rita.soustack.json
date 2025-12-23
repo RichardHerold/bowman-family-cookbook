@@ -38,5 +38,10 @@
         "end": 217
       }
     }
-  }
+  },
+  "category": "Appetizer",
+  "description": "Classic Italian bruschetta with fresh tomatoes and herbs",
+  "tags": [
+    "appetizer"
+  ]
 }

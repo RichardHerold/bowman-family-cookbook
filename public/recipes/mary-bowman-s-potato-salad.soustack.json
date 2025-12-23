@@ -20,5 +20,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Salad",
+  "description": "Classic potato salad",
+  "tags": [
+    "salad"
+  ]
 }

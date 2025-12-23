@@ -39,5 +39,10 @@
       }
     },
     "author": "Terry Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Chili and macaroni casserole",
+  "tags": [
+    "main-course"
+  ]
 }

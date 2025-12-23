@@ -33,5 +33,10 @@
       }
     },
     "author": "Terry Bowman"
-  }
+  },
+  "category": "Appetizer",
+  "description": "Fresh bean and vegetable salsa dip",
+  "tags": [
+    "appetizer"
+  ]
 }

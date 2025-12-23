@@ -31,5 +31,10 @@
       }
     },
     "author": "Mary Bowman"
-  }
+  },
+  "category": "Main Course",
+  "description": "Homemade meatballs for pasta",
+  "tags": [
+    "main-course"
+  ]
 }
