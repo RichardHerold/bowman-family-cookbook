@@ -1,10 +1,10 @@
 export default {
   site: {
-    title: 'Soustack',
+    title: 'Bowman Family Recipes',
     pageTitle: null, // Custom page title (browser tab). If null, uses getSiteDisplayName()
     owner: null,
-    tagline: 'Your recipes, organized.',
-    logoUrl: null
+    tagline: null,
+    logoUrl: '/logo.png',
   },
   features: {
     enableScaling: true,
@@ -20,6 +20,6 @@ export default {
   },
   branding: {
     showAttribution: true,
-    repoUrl: 'https://github.com/yourusername/soustack'
+    repoUrl: 'https://github.com/RichardHerold/soustack'
   }
 };
