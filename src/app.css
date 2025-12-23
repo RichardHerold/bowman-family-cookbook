@@ -65,9 +65,9 @@ header .container {
 }
 
 .site-logo {
-    height: 64px;
+    height: 120px;
     width: auto;
-    max-width: 160px;
+    max-width: 300px;
     object-fit: contain;
 }
 
@@ -86,13 +86,13 @@ header h1 {
 
 @media (min-width: 640px) {
     .site-header {
-        flex-direction: row;
-        text-align: left;
+        flex-direction: column;
+        text-align: center;
     }
 
     .site-heading {
-        align-items: flex-start;
-        text-align: left;
+        align-items: center;
+        text-align: center;
     }
 }
 
