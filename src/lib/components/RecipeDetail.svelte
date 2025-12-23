@@ -1,7 +1,6 @@
 <script>
   import IngredientList from './IngredientList.svelte';
   import InstructionList from './InstructionList.svelte';
-  import MiseEnPlace from './MiseEnPlace.svelte';
   import { scalingStore } from '../stores/scaling.js';
   import { formatDuration, formatQuantity } from '../utils/formatting.js';
   import config from '../config/index.js';
@@ -59,14 +58,7 @@
   }
 </script>
 
-<div class="recipe-view-toggle">
-  <button type="button" class="recipe-view-btn" class:active={view === 'cook'} on:click={() => setView('cook')}>
-    Recipe
-  </button>
-  <button type="button" class="recipe-view-btn" class:active={view === 'mise'} on:click={() => setView('mise')}>
-    Mise en Place
-  </button>
-</div>
+<!-- Mise en place toggle hidden -->
 
 <div class="recipe-view-panels">
   <section class="recipe-view-panel" class:active={view === 'cook'}>
@@ -172,7 +164,5 @@
     {/if}
   </section>
 
-  <section class="recipe-view-panel" class:active={view === 'mise'}>
-    <MiseEnPlace {recipe} scaleFactor={scaleFactor} />
-  </section>
+  <!-- Mise en place panel hidden -->
 </div>

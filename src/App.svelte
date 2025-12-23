@@ -123,35 +123,7 @@
   <SearchBar />
   <FilterTags recipes={$recipes} />
 
-  <section class="export-controls">
-    <div class="export-controls-row">
-      <div>
-        <p class="selection-count">{selectionLabel}</p>
-        <p class="export-hint">Select recipes to build a shopping list</p>
-      </div>
-      <div class="export-buttons">
-        <button
-          type="button"
-          class="export-btn export-btn-secondary"
-          class:export-btn-primary={$shoppingListMode}
-          data-selection-mode={$shoppingListMode}
-          on:click={handleShoppingAction}
-          disabled={$shoppingListMode && !hasSelection}
-        >
-          {$shoppingListMode ? 'Create Shopping List' : 'Make Shopping List'}
-        </button>
-        {#if $shoppingListMode}
-          <button
-            type="button"
-            class="export-btn export-btn-secondary"
-            on:click={handleClearSelection}
-          >
-            Clear Selection
-          </button>
-        {/if}
-      </div>
-    </div>
-  </section>
+  <!-- Shopping list feature hidden -->
 
   {#if $loading}
     <p>Loading recipes…</p>
@@ -172,12 +144,6 @@
   {/if}
 </main>
 
-{#if $showShoppingModal}
-  <ShoppingListModal
-    recipes={$recipes}
-    selectedNames={$selectedRecipes}
-    scaleState={$scalingStore}
-  />
-{/if}
+<!-- Shopping list modal hidden -->
 
 <Footer />
