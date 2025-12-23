@@ -1,0 +1,33 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Uncle Ray’s Rochford Baked Beans",
+  "stacks": {},
+  "ingredients": [
+    "Double Recipe",
+    "2 sweet onions",
+    "4 Tbsp. Molasses",
+    "2 cups ketchup",
+    "½ lb. Bacon or diced salt pork",
+    "2 cups brown sugar",
+    "2 packs beans (soak overnight in water)",
+    "2 cups water",
+    "4 tsp. Dry mustard"
+  ],
+  "instructions": [
+    "Bake low 10-12 hours or Bake high 4-6 hours",
+    "Serve"
+  ],
+  "metadata": {
+    "originalTitle": "UNCLE RAY’S ROCHFORD BAKED BEANS",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 2141,
+        "end": 2164
+      }
+    },
+    "author": "Ray Rochford"
+  }
+}

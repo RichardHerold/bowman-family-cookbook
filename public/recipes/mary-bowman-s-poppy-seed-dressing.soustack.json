@@ -1,0 +1,32 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Poppy Seed Dressing",
+  "stacks": {},
+  "ingredients": [
+    "Dressing:",
+    "1 cup honey",
+    "1 cup vinegar",
+    "1 cup vegetable oil",
+    "1 tbsp. poppy seeds"
+  ],
+  "instructions": [
+    "In a glass jar with a tight-fitted lid, combine all dressing ingredients; shake until well blended",
+    "Just before serving, pour about ½ cup of dressing over salad; toss lightly",
+    "Cover and refrigerate remaining dressing",
+    "Will yield 3 cups dressing",
+    "If cooking for two: dressing may be kept in the refrigerator for up to 1 week"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S POPPY SEED DRESSING",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1946,
+        "end": 1970
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

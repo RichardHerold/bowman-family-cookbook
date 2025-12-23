@@ -1,0 +1,34 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Terry Bowman’s Turkey Meatloaf",
+  "stacks": {},
+  "ingredients": [
+    "1 lb. ground turkey",
+    "Salt & pepper",
+    "¼ tsp. nutmeg",
+    "1/16 tsp. ground cloves",
+    "1/8 tsp. garlic",
+    "1 tbsp. parsley",
+    "1 tbsp. pickle relish",
+    "3 tbsp. ketchup",
+    "4 tsp. mustard",
+    "½ cup onions"
+  ],
+  "instructions": [
+    "Combine and put in loaf pan",
+    "Bake at 350 for 1 hour."
+  ],
+  "metadata": {
+    "originalTitle": "TERRY BOWMAN’S TURKEY MEATLOAF",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1587,
+        "end": 1609
+      }
+    },
+    "author": "Terry Bowman"
+  }
+}

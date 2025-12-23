@@ -1,0 +1,42 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Chuck Lagarce’s Pasta/shrimp",
+  "stacks": {},
+  "ingredients": [
+    "Butter",
+    "Garlic",
+    "6 plum tomatoes – seeds out",
+    "Ground up fresh basil",
+    "Ground up parsley",
+    "Bunch of asparagus",
+    "Lobster tails or Shrimp",
+    "Bow tie pasta",
+    "Fresh parmesan",
+    "2 pkg. of Knorr’s Parma Rosa",
+    "Milk"
+  ],
+  "instructions": [
+    "Butter and garlic in frying pan",
+    "6 plum tomatoes,  seeds out, cut small, cook in butter and garlic until saucy",
+    "Throw in some ground up fresh basil and parsley",
+    "Make Parma Rosa Sauce, (double the butter) and add it to the tomato sauce",
+    "Blanche bunch of asparagus , cut in 1” pieces",
+    "Cook shrimp in butter & garlic sauce ,  put in shredded lobster tail meat",
+    "Add shrimp or lobster to parmesan sauce",
+    "Cook 2 packages of bow tie pasta",
+    "Throw grated cheese on top"
+  ],
+  "metadata": {
+    "originalTitle": "CHUCK LAGARCE’S PASTA/SHRIMP",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 915,
+        "end": 952
+      }
+    },
+    "author": "Chuck Lagarce"
+  }
+}

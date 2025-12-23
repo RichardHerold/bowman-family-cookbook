@@ -1,0 +1,29 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Corn on the Cob",
+  "stacks": {},
+  "ingredients": [
+    "Freshly picked Corn from Eddies’ Garden"
+  ],
+  "instructions": [
+    "Have Children Shuck the corn",
+    "Bring water to boil",
+    "Add corn",
+    "Cover",
+    "When water returns to boil",
+    "Corn is done"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S CORN ON THE COB",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 2194,
+        "end": 2215
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

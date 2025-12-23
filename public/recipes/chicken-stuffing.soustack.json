@@ -1,0 +1,28 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Chicken Stuffing",
+  "stacks": {},
+  "ingredients": [
+    "3 or 4 slices of bread – wet with water squeeze excess water.",
+    "1 egg",
+    "Chopped celery and onion",
+    "Salt and pepper",
+    "Poultry seasoning"
+  ],
+  "instructions": [
+    "put stuffing into chicken – bake chicken according to Betty Crocker"
+  ],
+  "metadata": {
+    "originalTitle": "CHICKEN STUFFING",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1835,
+        "end": 1851
+      }
+    },
+    "author": "Unknown"
+  }
+}

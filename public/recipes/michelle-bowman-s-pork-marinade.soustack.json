@@ -1,0 +1,30 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Michelle Bowman’s Pork Marinade",
+  "stacks": {},
+  "ingredients": [
+    "3 tbsp. olive oil",
+    "1 tbsp. white wine vinegar",
+    "2 tsp. chopped fresh rosemary",
+    "½ tsp. salt",
+    "¼ tsp. pepper",
+    "2 cloves garlic, crushed"
+  ],
+  "instructions": [
+    "Brush mixture over pork tenderloin",
+    "Let it marinate for at least 3 hours."
+  ],
+  "metadata": {
+    "originalTitle": "MICHELLE BOWMAN’S PORK MARINADE",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1075,
+        "end": 1094
+      }
+    },
+    "author": "Michelle Bowman"
+  }
+}

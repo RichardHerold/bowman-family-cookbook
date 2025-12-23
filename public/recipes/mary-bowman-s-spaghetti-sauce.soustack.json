@@ -1,0 +1,28 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Spaghetti Sauce",
+  "stacks": {},
+  "ingredients": [
+    "Raggazino (no longer makes sauce, need to substitute a different brand) spaghetti sauce and",
+    "1 can hunts whole tomatoes – cut up",
+    "Pepper (cut into pieces)",
+    "Sweet onion (chopped)"
+  ],
+  "instructions": [
+    "Combine and simmer for a few hours",
+    "Add meatballs about 1 hour before serving"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S SPAGHETTI SAUCE",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1143,
+        "end": 1159
+      }
+    },
+    "author": "Marry Bowman"
+  }
+}

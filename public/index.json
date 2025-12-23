@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Terry Bowman - Artichoke Spinach Dip",
+    "slug": "terry-bowman-artichoke-spinach-dip",
+    "path": "recipes/terry-bowman-artichoke-spinach-dip.soustack.json"
+  },
+  {
+    "name": "Anne Regan Clam Dip",
+    "slug": "anne-regan-clam-dip",
+    "path": "recipes/anne-regan-clam-dip.soustack.json"
+  },
+  {
+    "name": "Hot Clam Spread",
+    "slug": "hot-clam-spread",
+    "path": "recipes/hot-clam-spread.soustack.json"
+  },
+  {
+    "name": "Terry Bowman’s Armadillo Dip",
+    "slug": "terry-bowman-s-armadillo-dip",
+    "path": "recipes/terry-bowman-s-armadillo-dip.soustack.json"
+  },
+  {
+    "name": "Terry Bowman’s Texas Caviar",
+    "slug": "terry-bowman-s-texas-caviar",
+    "path": "recipes/terry-bowman-s-texas-caviar.soustack.json"
+  },
+  {
+    "name": "Ann Navage Brushetta from Rita",
+    "slug": "ann-navage-brushetta-from-rita",
+    "path": "recipes/ann-navage-brushetta-from-rita.soustack.json"
+  },
+  {
+    "name": "Rita Bowman’s Butternut Squash Soup",
+    "slug": "rita-bowman-s-butternut-squash-soup",
+    "path": "recipes/rita-bowman-s-butternut-squash-soup.soustack.json"
+  },
+  {
+    "name": "Rita Bowman’s Clam Chowder",
+    "slug": "rita-bowman-s-clam-chowder",
+    "path": "recipes/rita-bowman-s-clam-chowder.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Vegetable Soup",
+    "slug": "mary-bowman-s-vegetable-soup",
+    "path": "recipes/mary-bowman-s-vegetable-soup.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Beef Stew",
+    "slug": "mary-bowman-s-beef-stew",
+    "path": "recipes/mary-bowman-s-beef-stew.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Popeye",
+    "slug": "mary-bowman-s-popeye",
+    "path": "recipes/mary-bowman-s-popeye.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Meatloaf",
+    "slug": "mary-bowman-s-meatloaf",
+    "path": "recipes/mary-bowman-s-meatloaf.soustack.json"
+  },
+  {
+    "name": "Katie Gaetani Mirabello - Meat Loaf",
+    "slug": "katie-gaetani-mirabello-meat-loaf",
+    "path": "recipes/katie-gaetani-mirabello-meat-loaf.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Pot Roast",
+    "slug": "mary-bowman-s-pot-roast",
+    "path": "recipes/mary-bowman-s-pot-roast.soustack.json"
+  },
+  {
+    "name": "Sheila Nodine-szpak - Oriental Dish",
+    "slug": "sheila-nodine-szpak-oriental-dish",
+    "path": "recipes/sheila-nodine-szpak-oriental-dish.soustack.json"
+  },
+  {
+    "name": "Michelle Bowman’s Flank Steak Marinade",
+    "slug": "michelle-bowman-s-flank-steak-marinade",
+    "path": "recipes/michelle-bowman-s-flank-steak-marinade.soustack.json"
+  },
+  {
+    "name": "Nancy Bowman’s Hamburger Casserole",
+    "slug": "nancy-bowman-s-hamburger-casserole",
+    "path": "recipes/nancy-bowman-s-hamburger-casserole.soustack.json"
+  },
+  {
+    "name": "Terry Bowman’s Chili Mac",
+    "slug": "terry-bowman-s-chili-mac",
+    "path": "recipes/terry-bowman-s-chili-mac.soustack.json"
+  },
+  {
+    "name": "Sandra Wolff’s Swedish Meatballs",
+    "slug": "sandra-wolff-s-swedish-meatballs",
+    "path": "recipes/sandra-wolff-s-swedish-meatballs.soustack.json"
+  },
+  {
+    "name": "Chris & Nancy Bowman’s Venison Stew/ Beef Stew",
+    "slug": "chris-nancy-bowman-s-venison-stew-beef-stew",
+    "path": "recipes/chris-nancy-bowman-s-venison-stew-beef-stew.soustack.json"
+  },
+  {
+    "name": "Gram Bowman’s Corned Beef & Cabbage",
+    "slug": "gram-bowman-s-corned-beef-cabbage",
+    "path": "recipes/gram-bowman-s-corned-beef-cabbage.soustack.json"
+  },
+  {
+    "name": "Rita Bowman Lobster Casserole (From Ann Navage)",
+    "slug": "rita-bowman-lobster-casserole-from-ann-navage",
+    "path": "recipes/rita-bowman-lobster-casserole-from-ann-navage.soustack.json"
+  },
+  {
+    "name": "Mimi Falvey’s Langostino Newburg",
+    "slug": "mimi-falvey-s-langostino-newburg",
+    "path": "recipes/mimi-falvey-s-langostino-newburg.soustack.json"
+  },
+  {
+    "name": "Rita Bowman’s Baked Salmon",
+    "slug": "rita-bowman-s-baked-salmon",
+    "path": "recipes/rita-bowman-s-baked-salmon.soustack.json"
+  },
+  {
+    "name": "Rita Bowman’s Crab Cakes",
+    "slug": "rita-bowman-s-crab-cakes",
+    "path": "recipes/rita-bowman-s-crab-cakes.soustack.json"
+  },
+  {
+    "name": "Sister’s (Sally – Our Favorite Sister) Fish",
+    "slug": "sister-s-sally-our-favorite-sister-fish",
+    "path": "recipes/sister-s-sally-our-favorite-sister-fish.soustack.json"
+  },
+  {
+    "name": "Sally Bowman’s Poached Salmon",
+    "slug": "sally-bowman-s-poached-salmon",
+    "path": "recipes/sally-bowman-s-poached-salmon.soustack.json"
+  },
+  {
+    "name": "Chuck Lagarce’s Pasta/shrimp",
+    "slug": "chuck-lagarce-s-pasta-shrimp",
+    "path": "recipes/chuck-lagarce-s-pasta-shrimp.soustack.json"
+  },
+  {
+    "name": "Aunt Rainy Falvey’s Scalloped Potatoes and Ham",
+    "slug": "aunt-rainy-falvey-s-scalloped-potatoes-and-ham",
+    "path": "recipes/aunt-rainy-falvey-s-scalloped-potatoes-and-ham.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Scallop Potatoes",
+    "slug": "mary-bowman-s-scallop-potatoes",
+    "path": "recipes/mary-bowman-s-scallop-potatoes.soustack.json"
+  },
+  {
+    "name": "Michelle Bowman’s Pork Marinade",
+    "slug": "michelle-bowman-s-pork-marinade",
+    "path": "recipes/michelle-bowman-s-pork-marinade.soustack.json"
+  },
+  {
+    "name": "Mimi Falvey’s Sweet & Sour Kielbasa",
+    "slug": "mimi-falvey-s-sweet-sour-kielbasa",
+    "path": "recipes/mimi-falvey-s-sweet-sour-kielbasa.soustack.json"
+  },
+  {
+    "name": "Terry Bowman’s Bbq Ribs",
+    "slug": "terry-bowman-s-bbq-ribs",
+    "path": "recipes/terry-bowman-s-bbq-ribs.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Spaghetti Sauce",
+    "slug": "mary-bowman-s-spaghetti-sauce",
+    "path": "recipes/mary-bowman-s-spaghetti-sauce.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Meatballs",
+    "slug": "mary-bowman-s-meatballs",
+    "path": "recipes/mary-bowman-s-meatballs.soustack.json"
+  },
+  {
+    "name": "Kristin Bowman’s Spaghetti Casserole",
+    "slug": "kristin-bowman-s-spaghetti-casserole",
+    "path": "recipes/kristin-bowman-s-spaghetti-casserole.soustack.json"
+  },
+  {
+    "name": "Michelle Bowman’s Large Lasagna",
+    "slug": "michelle-bowman-s-large-lasagna",
+    "path": "recipes/michelle-bowman-s-large-lasagna.soustack.json"
+  },
+  {
+    "name": "Grammy Lagarce’s Sauce",
+    "slug": "grammy-lagarce-s-sauce",
+    "path": "recipes/grammy-lagarce-s-sauce.soustack.json"
+  },
+  {
+    "name": "Grammy Lagarce’s Meatballs",
+    "slug": "grammy-lagarce-s-meatballs",
+    "path": "recipes/grammy-lagarce-s-meatballs.soustack.json"
+  },
+  {
+    "name": "Grammy Lagarce’s Sausage",
+    "slug": "grammy-lagarce-s-sausage",
+    "path": "recipes/grammy-lagarce-s-sausage.soustack.json"
+  },
+  {
+    "name": "Barbara Formica Bowman’s Spaghetti Sauce",
+    "slug": "barbara-formica-bowman-s-spaghetti-sauce",
+    "path": "recipes/barbara-formica-bowman-s-spaghetti-sauce.soustack.json"
+  },
+  {
+    "name": "Mary Bowman Goulash",
+    "slug": "mary-bowman-goulash",
+    "path": "recipes/mary-bowman-goulash.soustack.json"
+  },
+  {
+    "name": "Basic Marinara Sauce",
+    "slug": "basic-marinara-sauce",
+    "path": "recipes/basic-marinara-sauce.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Chop Suey",
+    "slug": "mary-bowman-s-chop-suey",
+    "path": "recipes/mary-bowman-s-chop-suey.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Macaroni and Cheese",
+    "slug": "mary-bowman-s-macaroni-and-cheese",
+    "path": "recipes/mary-bowman-s-macaroni-and-cheese.soustack.json"
+  },
+  {
+    "name": "Chris Bowman’s Eggplant Parmagiana",
+    "slug": "chris-bowman-s-eggplant-parmagiana",
+    "path": "recipes/chris-bowman-s-eggplant-parmagiana.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Turkey a La King",
+    "slug": "mary-bowman-s-turkey-a-la-king",
+    "path": "recipes/mary-bowman-s-turkey-a-la-king.soustack.json"
+  },
+  {
+    "name": "Terry Bowman’s Turkey Meatloaf",
+    "slug": "terry-bowman-s-turkey-meatloaf",
+    "path": "recipes/terry-bowman-s-turkey-meatloaf.soustack.json"
+  },
+  {
+    "name": "Chicken Piccatta",
+    "slug": "chicken-piccatta",
+    "path": "recipes/chicken-piccatta.soustack.json"
+  },
+  {
+    "name": "Rita Bowman’s Chicken Stew/pot Pie",
+    "slug": "rita-bowman-s-chicken-stew-pot-pie",
+    "path": "recipes/rita-bowman-s-chicken-stew-pot-pie.soustack.json"
+  },
+  {
+    "name": "Rita Bowman’s Chicken Cacchiatore",
+    "slug": "rita-bowman-s-chicken-cacchiatore",
+    "path": "recipes/rita-bowman-s-chicken-cacchiatore.soustack.json"
+  },
+  {
+    "name": "Very Good Chicken",
+    "slug": "very-good-chicken",
+    "path": "recipes/very-good-chicken.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Eggs & Beans",
+    "slug": "mary-bowman-s-eggs-beans",
+    "path": "recipes/mary-bowman-s-eggs-beans.soustack.json"
+  },
+  {
+    "name": "Gram Bowman’s Turkey Dressing Invented by Her Husband Matty Bowman",
+    "slug": "gram-bowman-s-turkey-dressing-invented-by-her-husband-matty-bowman",
+    "path": "recipes/gram-bowman-s-turkey-dressing-invented-by-her-husband-matty-bowman.soustack.json"
+  },
+  {
+    "name": "Chicken Stuffing",
+    "slug": "chicken-stuffing",
+    "path": "recipes/chicken-stuffing.soustack.json"
+  },
+  {
+    "name": "Nancy Bowman’s Wild Rice Stuffing",
+    "slug": "nancy-bowman-s-wild-rice-stuffing",
+    "path": "recipes/nancy-bowman-s-wild-rice-stuffing.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Gravy",
+    "slug": "mary-bowman-s-gravy",
+    "path": "recipes/mary-bowman-s-gravy.soustack.json"
+  },
+  {
+    "name": "Cindy Lagarce’s Broccoli Salad",
+    "slug": "cindy-lagarce-s-broccoli-salad",
+    "path": "recipes/cindy-lagarce-s-broccoli-salad.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Green Salad",
+    "slug": "mary-bowman-s-green-salad",
+    "path": "recipes/mary-bowman-s-green-salad.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Poppy Seed Dressing",
+    "slug": "mary-bowman-s-poppy-seed-dressing",
+    "path": "recipes/mary-bowman-s-poppy-seed-dressing.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Potato Salad",
+    "slug": "mary-bowman-s-potato-salad",
+    "path": "recipes/mary-bowman-s-potato-salad.soustack.json"
+  },
+  {
+    "name": "Potato and Coleslaw Salad Dressing",
+    "slug": "potato-and-coleslaw-salad-dressing",
+    "path": "recipes/potato-and-coleslaw-salad-dressing.soustack.json"
+  },
+  {
+    "name": "Michelle Bowman’s Chopped Salad",
+    "slug": "michelle-bowman-s-chopped-salad",
+    "path": "recipes/michelle-bowman-s-chopped-salad.soustack.json"
+  },
+  {
+    "name": "Broccoli Salad",
+    "slug": "broccoli-salad",
+    "path": "recipes/broccoli-salad.soustack.json"
+  },
+  {
+    "name": "Lolly’s (Alice Mae Aragon Hawley) Bread and Butter Pickles",
+    "slug": "lolly-s-alice-mae-aragon-hawley-bread-and-butter-pickles",
+    "path": "recipes/lolly-s-alice-mae-aragon-hawley-bread-and-butter-pickles.soustack.json"
+  },
+  {
+    "name": "Anne Lagarce’s Acorn Squash",
+    "slug": "anne-lagarce-s-acorn-squash",
+    "path": "recipes/anne-lagarce-s-acorn-squash.soustack.json"
+  },
+  {
+    "name": "Uncle Ray’s Rochford Baked Beans",
+    "slug": "uncle-ray-s-rochford-baked-beans",
+    "path": "recipes/uncle-ray-s-rochford-baked-beans.soustack.json"
+  },
+  {
+    "name": "Southern Baked Beans",
+    "slug": "southern-baked-beans",
+    "path": "recipes/southern-baked-beans.soustack.json"
+  },
+  {
+    "name": "Mary Bowman’s Corn on the Cob",
+    "slug": "mary-bowman-s-corn-on-the-cob",
+    "path": "recipes/mary-bowman-s-corn-on-the-cob.soustack.json"
+  },
+  {
+    "name": "Michelle Bowman’s Apple Sauce",
+    "slug": "michelle-bowman-s-apple-sauce",
+    "path": "recipes/michelle-bowman-s-apple-sauce.soustack.json"
+  }
+]

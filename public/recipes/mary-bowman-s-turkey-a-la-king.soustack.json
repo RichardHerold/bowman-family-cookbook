@@ -1,0 +1,41 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Turkey a La King",
+  "stacks": {},
+  "ingredients": [
+    "1 to 2 oz. canned mushrooms",
+    "¼ cup chopped green peppers",
+    "¼ cup butter",
+    "¼ cup gold metal flour",
+    "1 tsp. salt",
+    "1/8 tsp. pepper",
+    "1 cup of chicken broth",
+    "¼ cup chopped pimento",
+    "1 cup cream or whole milk",
+    "1 left over turkey (adjust accordingly)"
+  ],
+  "instructions": [
+    "Sauté mushrooms and green peppers in butter",
+    "Blend in flour, salt & pepper",
+    "Let bubble, slowly stir in chicken broth and cream",
+    "Bring to a boil over low heat",
+    "Stir constantly",
+    "Boil 1 minute",
+    "Add turkey and pimento",
+    "Heat through.",
+    "Serve over white rice or white bread"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S TURKEY A LA KING",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1549,
+        "end": 1586
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

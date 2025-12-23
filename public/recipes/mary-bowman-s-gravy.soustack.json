@@ -1,0 +1,27 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Gravy",
+  "stacks": {},
+  "ingredients": [
+    "Pan juices",
+    "Flour",
+    "Water"
+  ],
+  "instructions": [
+    "Pour off grease, put juices in pan, brown chunks too.",
+    "Heat low then add flour and water (potato) then boil stirring continually with fork, add pepper – add more water (potato)."
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S GRAVY",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1879,
+        "end": 1895
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

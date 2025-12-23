@@ -1,0 +1,41 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Rita Bowman’s Chicken Cacchiatore",
+  "stacks": {},
+  "ingredients": [
+    "2 whole chickens cut up",
+    "Flour",
+    "Salt & pepper",
+    "Olive oil",
+    "Butter",
+    "A few garlic cloves",
+    "Fresh Rosemary",
+    "Parsley",
+    "8 oz. water or water and wine",
+    "2-3 onions",
+    "2-3 red & green peppers",
+    "2 cans whole San Marzano plum Tomatoes (loose chop)"
+  ],
+  "instructions": [
+    "Wash, dry and dip chicken in flour seasoned with salt & pepper",
+    "Fry lightly in pan with olive oil & a little butter",
+    "Add garlic, fresh rosemary and parsley",
+    "Add about 8 oz. water or water and wine",
+    "In separate pan, lightly fry 2-3 onions and 2-3 red & green peppers",
+    "Add to chicken pan with 2 cans whole San Marzano plum tomatoes (loose chop)",
+    "Simmer until chicken is ready (1 hour)"
+  ],
+  "metadata": {
+    "originalTitle": "RITA BOWMAN’S CHICKEN CACCHIATORE",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1692,
+        "end": 1725
+      }
+    },
+    "author": "Rita Bowman"
+  }
+}

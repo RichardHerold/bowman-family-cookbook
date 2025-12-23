@@ -1,0 +1,37 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Nancy Bowman’s Hamburger Casserole",
+  "stacks": {},
+  "ingredients": [
+    "1 ½ lbs. Ground beef",
+    "1 can cream of celery soup",
+    "4 large potatoes",
+    "1 can cheddar cheese soup",
+    "2 large onions (optional)",
+    "1 cup milk",
+    "1 tbsp. Parsley",
+    "Pepper to taste"
+  ],
+  "instructions": [
+    "Brown ground beef",
+    "sauté onion in oil",
+    "Drain both, mix together & set aside",
+    "Slice potatoes very thin with or without skin",
+    "mix soups, milk, parsley & pepper",
+    "Layer 1/2 meat & onion, 1/2 potatoes & 1/2 soup mixture – repeat",
+    "Cover & Bake at 350 for 90 minutes."
+  ],
+  "metadata": {
+    "originalTitle": "NANCY BOWMAN’S HAMBURGER CASSEROLE",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 539,
+        "end": 571
+      }
+    },
+    "author": "Nanny Bowman"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mimi Falvey’s Sweet & Sour Kielbasa",
+  "stacks": {},
+  "ingredients": [
+    "1 large ring kielbasa",
+    "½ cup applesauce",
+    "1 small jar lachoy sweet & sour sauce",
+    "8 oz. Can chunked pineapple, drained"
+  ],
+  "instructions": [
+    "Cut kielbasa into large pieces; parboil 10-15 minutes",
+    "Slice",
+    "Mix other ingredients in casserole dish",
+    "Add kielbasa slices & stir to cover with sauce",
+    "Cover and bake at 350 for 1 hour or microwave on high approximately 8-10 minutes."
+  ],
+  "metadata": {
+    "originalTitle": "MIMI FALVEY’S SWEET & SOUR KIELBASA",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1095,
+        "end": 1117
+      }
+    },
+    "author": "Mimi Falvey"
+  }
+}

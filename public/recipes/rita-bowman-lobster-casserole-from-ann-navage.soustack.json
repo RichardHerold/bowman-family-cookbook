@@ -1,0 +1,39 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Rita Bowman Lobster Casserole (From Ann Navage)",
+  "stacks": {},
+  "ingredients": [
+    "Eight 1 ¼ lb. lobsters",
+    "5 tbsp. unsalted (sweet) butter",
+    "½ cup finely chopped shallots",
+    "5 tbsp. flour",
+    "Salt & pepper",
+    "Cayenne pepper",
+    "Buttered breadcrumbs"
+  ],
+  "instructions": [
+    "Steam 4 at a time for 9 minutes",
+    "Cut up meat & reserve",
+    "In sauce pan, melt butter",
+    "Add shallots",
+    "Cook until soft",
+    "Add flour & cook 2-3 minutes",
+    "Season with salt & pepper and some cayenne pepper (little bit)",
+    "Add lobster meat",
+    "Pour in casserole, top with breadcrumbs",
+    "Bake at 350 until bubbly"
+  ],
+  "metadata": {
+    "originalTitle": "RITA BOWMAN LOBSTER CASSEROLE (FROM ANN NAVAGE)",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 710,
+        "end": 746
+      }
+    },
+    "author": "Rita  Bowman"
+  }
+}

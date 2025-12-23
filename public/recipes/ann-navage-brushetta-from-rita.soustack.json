@@ -1,0 +1,42 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Ann Navage Brushetta from Rita",
+  "stacks": {},
+  "ingredients": [
+    "Seeded plum tomatoes (fresh)",
+    "Sundried tomatoes in oil",
+    "Onions",
+    "2-3 minced garlic cloves",
+    "Italian salami",
+    "Black olives if desired",
+    "French bread",
+    "Olive oil",
+    "Salt & pepper",
+    "Basil",
+    "Oregano",
+    "Parsley"
+  ],
+  "instructions": [
+    "Anna Navage and Rita Bowman",
+    "Cut bread ½” thick on an angle",
+    "Paint with olive oil",
+    "Broil lightly",
+    "Cut into small diced pieces",
+    "Mix other ingredients with some olive oil, salt & pepper, and herbs",
+    "Top bread with mixture",
+    "Top with parmesan & mozzarella",
+    "Broil to melt cheese."
+  ],
+  "metadata": {
+    "originalTitle": "ANN NAVAGE BRUSHETTA FROM RITA",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 179,
+        "end": 217
+      }
+    }
+  }
+}

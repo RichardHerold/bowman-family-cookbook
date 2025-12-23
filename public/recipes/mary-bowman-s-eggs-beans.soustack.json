@@ -1,0 +1,29 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Eggs & Beans",
+  "stacks": {},
+  "ingredients": [
+    "Eggs",
+    "B&M Original beans",
+    "Box of Jiffy corn muffin mix"
+  ],
+  "instructions": [
+    "Scramble eggs",
+    "Heat up beans",
+    "Follow directions on box of Jiffy corn muffin mix",
+    "STUFFING, GRAVY AND MARINADES"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S EGGS & BEANS",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1765,
+        "end": 1789
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

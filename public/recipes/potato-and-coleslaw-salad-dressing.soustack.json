@@ -1,0 +1,29 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Potato and Coleslaw Salad Dressing",
+  "stacks": {},
+  "ingredients": [
+    "Couple Scoops of Hellman’s mayo",
+    "Salt and pepper dash of each",
+    "Sugar – pinch – done by taste",
+    "Little bit of Crisco oil",
+    "Tarragon vinegar to taste"
+  ],
+  "instructions": [
+    "Mix with fork",
+    "Test"
+  ],
+  "metadata": {
+    "originalTitle": "POTATO AND COLESLAW SALAD DRESSING",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1980,
+        "end": 1994
+      }
+    },
+    "author": "Unknown"
+  }
+}

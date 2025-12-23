@@ -1,0 +1,31 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Grammy Lagarce’s Meatballs",
+  "stacks": {},
+  "ingredients": [
+    "2 lb. hamburger",
+    "½ cup plain crumbs",
+    "1 egg – beaten",
+    "Sprinkle of parsley flakes",
+    "Sprinkle of parmesan cheese"
+  ],
+  "instructions": [
+    "Grammy Lagarce’s",
+    "Make into balls",
+    "Bake at 350 for about 10 minutes",
+    "Turnover and bake another 10 – 15 minutes",
+    "Place in sauce"
+  ],
+  "metadata": {
+    "originalTitle": "GRAMMY LAGARCE’S MEATBALLS",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1286,
+        "end": 1307
+      }
+    }
+  }
+}
