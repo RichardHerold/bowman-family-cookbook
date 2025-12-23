@@ -1,0 +1,41 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Aunt Rainy Falvey’s Scalloped Potatoes and Ham",
+  "stacks": {},
+  "ingredients": [
+    "2 Tbsp. Butter or margarine",
+    "1 Tbsp. flour",
+    "1 ½ cups milk",
+    "4 potatoes, peeled and thinly sliced",
+    "1 medium size onion, quartered (if desired)",
+    "2 cups diced ham"
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees",
+    "Melt butter in a medium size saucepan",
+    "Stir in flour",
+    "Add milk slowly stirring constantly",
+    "Cook and stir over low heat until thickened",
+    "Season to taste with salt and pepper",
+    "Butter a 2 ½ qt. casserole dish.",
+    "Add potatoes, onions, and ham to dish in layers",
+    "Pour sauce over potatoes and ham",
+    "Cover and bake at 350 degrees for ¾ hour",
+    "Uncover and bake until potatoes are tender",
+    "Note:",
+    "Serves 4-6."
+  ],
+  "metadata": {
+    "originalTitle": "AUNT RAINY FALVEY’S SCALLOPED POTATOES AND HAM",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 953,
+        "end": 992
+      }
+    },
+    "author": "Aunt Rainy Falvey"
+  }
+}

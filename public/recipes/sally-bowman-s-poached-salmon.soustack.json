@@ -1,0 +1,32 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Sally Bowman’s Poached Salmon",
+  "stacks": {},
+  "ingredients": [
+    "Salmon",
+    "Carrots",
+    "Onion",
+    "Celery",
+    "Dill weed",
+    "1 bay leaf"
+  ],
+  "instructions": [
+    "Put salmon in large deep fry pan or Dutch oven",
+    "Cover with water to almost above salmon",
+    "Add carrots, onion, celery, dill weed, and bay leaf",
+    "Turn on medium heat and simmer until salmon turns light pink."
+  ],
+  "metadata": {
+    "originalTitle": "SALLY BOWMAN’S POACHED SALMON",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 893,
+        "end": 914
+      }
+    },
+    "author": "Sally Bowman"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Potato Salad",
+  "stacks": {},
+  "ingredients": [
+    "Potato salad – red potatoes medium size – boils in water and adds salt 30 minutes - check with fork."
+  ],
+  "instructions": [
+    "Peel potatoes after they boil, add dressing from below."
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S POTATO SALAD",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1971,
+        "end": 1979
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

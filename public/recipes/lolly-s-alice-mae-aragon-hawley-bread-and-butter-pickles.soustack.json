@@ -1,0 +1,39 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Lolly’s (Alice Mae Aragon Hawley) Bread and Butter Pickles",
+  "stacks": {},
+  "ingredients": [
+    "Makes 7 pints - about 15 cucumbers",
+    "4 quarts cucumbers",
+    "2 tsp. Celery seed",
+    "6 medium onions, sliced",
+    "2 tbsp. Mustard seed",
+    "½ cup salt",
+    "Cracked ice (qt.)",
+    "3 cups vinegar (cider)",
+    "4 cups sugar",
+    "1 tsp. Turmeric"
+  ],
+  "instructions": [
+    "Wash cucumbers and slice (¼” thick).",
+    "Peel and slice onions.  Mix cucumbers, onions and salt.",
+    "Add ice.",
+    "Let stand for 3 hours – drain and rinse.",
+    "Mix and add cucumbers, etc.",
+    "Bring to a rolling boil.",
+    "Pack in jars and seal."
+  ],
+  "metadata": {
+    "originalTitle": "LOLLY’S (ALICE MAE ARAGON HAWLEY) BREAD AND BUTTER PICKLES",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 2084,
+        "end": 2117
+      }
+    },
+    "author": "Alice Mae Aragon Hawley"
+  }
+}

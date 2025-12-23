@@ -1,0 +1,37 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Southern Baked Beans",
+  "stacks": {},
+  "ingredients": [
+    "½ Lb. bacon",
+    "2 tsp. Vinegar",
+    "1 lb hamburger",
+    "1 can kidney beans",
+    "1 onion chopped",
+    "2 cans butter beans plus liquid",
+    "½ cup ketchup",
+    "1 can pork & beans",
+    "1 or 2 tsp. Dry mustard",
+    "1 can pinto beans",
+    "½ cup brown sugar"
+  ],
+  "instructions": [
+    "Brown and drain bacon, hamburger & onion.",
+    "Mix meat mixture with next four ingredients.",
+    "Add all cans of beans (use one pound cans and drain all except for butter beans).",
+    "Bake slowly or put in crock-pot for 4 hours."
+  ],
+  "metadata": {
+    "originalTitle": "SOUTHERN BAKED BEANS",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 2165,
+        "end": 2193
+      }
+    },
+    "author": "Unknown"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman Goulash",
+  "stacks": {},
+  "ingredients": [
+    "Tomatoes (no skin)",
+    "Peppers, cut into pieces",
+    "Onions, cut into pieces",
+    "Sugar, pinch to taste"
+  ],
+  "instructions": [
+    "To remove tomato skin, bring pot of water to boil",
+    "Fill sink with cold water",
+    "Add some tomatoes to boiling water for 1 minute",
+    "Then put tomato in cold water to shock off skin",
+    "Combine all ingredients",
+    "Simmer covered for 3 hours",
+    "Serve over egg noodles"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN GOULASH",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 1384,
+        "end": 1409
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

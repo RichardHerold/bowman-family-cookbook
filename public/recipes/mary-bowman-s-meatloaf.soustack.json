@@ -1,0 +1,40 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Meatloaf",
+  "stacks": {},
+  "ingredients": [
+    "3 or 4 slices white bread with crust",
+    "Chopped yellow onion",
+    "Salt & pepper",
+    "1 egg",
+    "2 pounds ground sirloin",
+    "Sugar"
+  ],
+  "instructions": [
+    "Wet bread",
+    "Squeeze excess water out",
+    "Add onion to taste",
+    "Combine salt, pepper, 1 egg, 2 pounds ground sirloin",
+    "Mix with hands",
+    "let sit  half hour",
+    "Form into meatballs or meatloaf",
+    "Bake 350 degrees for about 1 hour 15 minutes for meatloaf",
+    "For Meatballs",
+    "Drop into sauce",
+    "Add pinch salt, pepper, and sugar to taste",
+    "Simmer for 1 hour"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S MEATLOAF",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 371,
+        "end": 409
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

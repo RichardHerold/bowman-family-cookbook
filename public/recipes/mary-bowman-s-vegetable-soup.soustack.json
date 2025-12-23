@@ -1,0 +1,31 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mary Bowman’s Vegetable Soup",
+  "stacks": {},
+  "ingredients": [
+    "4 cups water",
+    "4-6 carrots",
+    "2 onions",
+    "2 stalks celery",
+    "2 cans tomatoes",
+    "Soup meat – usually comes with bone"
+  ],
+  "instructions": [
+    "Brown meat in bottom of pot with Crisco",
+    "Add other ingredients",
+    "MAIN MEALS"
+  ],
+  "metadata": {
+    "originalTitle": "MARY BOWMAN’S VEGETABLE SOUP",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 282,
+        "end": 305
+      }
+    },
+    "author": "Mary Bowman"
+  }
+}

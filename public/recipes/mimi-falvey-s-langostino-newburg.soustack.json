@@ -1,0 +1,41 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Mimi Falvey’s Langostino Newburg",
+  "stacks": {},
+  "ingredients": [
+    "1 stick margarine",
+    "1 12 oz. Package langostino (or shrimp or lobster meat)",
+    "1/3 cup sherry",
+    "1 pint light cream",
+    "2 tsp. Flour",
+    "¼ tsp. Pepper",
+    "2 cups grated cheddar cheese",
+    "1 cup crushed saltines"
+  ],
+  "instructions": [
+    "Preheat oven to 350",
+    "Grease 2-quart casserole dish",
+    "In saucepan, melt margarine over low heat",
+    "Add sherry",
+    "Simmer 1 minute",
+    "Add flour & stir",
+    "Add cream",
+    "Bring to a boil and stir until slightly thickened",
+    "Add Langostino",
+    "Alternate cracker crumbs, langostino mixture and grated cheese",
+    "Bake for 25 minutes (don’t overheat!)"
+  ],
+  "metadata": {
+    "originalTitle": "MIMI FALVEY’S LANGOSTINO NEWBURG",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 747,
+        "end": 786
+      }
+    },
+    "author": "Mimi Falvey"
+  }
+}

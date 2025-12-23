@@ -1,0 +1,41 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Sandra Wolff’s Swedish Meatballs",
+  "stacks": {},
+  "ingredients": [
+    "1 lb. Ground beef",
+    "2 tsp. Salt",
+    "1 lb. Ground pork",
+    "1 tsp. All spice",
+    "½ cup fine bread crumbs",
+    "4 tbsp. Grated onion (I use chopped)",
+    "½ cup milk",
+    "Margarine for frying",
+    "2 eggs",
+    "1 jar of Heinz gravy mix",
+    "¼-1/2 cup of white wine (Water can be used instead of white wine to dilute gravy",
+    ")"
+  ],
+  "instructions": [
+    "Blend breadcrumbs and milk and let stand 10 minutes",
+    "Add meat, onions, salt, all spice, and eggs and blend",
+    "Make meatballs",
+    "Fry gently a few at a time until nicely browned (I bake them at 350 for 15-20 minutes on a greased baking sheet)",
+    "When ready to use, I bake at 325 with gravy mix and wine for 20-30 minutes. They freeze well without gravy.",
+    "Note:",
+    "Army loves Swedish meatballs and I had a problem finding a recipe because he said Nana’s always had gravy. I found that Heinz fat free gravy works fine!"
+  ],
+  "metadata": {
+    "originalTitle": "SANDRA WOLFF’S SWEDISH MEATBALLS",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 609,
+        "end": 645
+      }
+    },
+    "author": "Sandra Wolff"
+  }
+}

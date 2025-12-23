@@ -1,0 +1,29 @@
+{
+  "$schema": "https://soustack.spec/soustack.schema.json",
+  "profile": "lite",
+  "name": "Anne Lagarce’s Acorn Squash",
+  "stacks": {},
+  "ingredients": [
+    "Butter",
+    "Brown sugar",
+    "3 Acorn squash",
+    "1 Sweet onion"
+  ],
+  "instructions": [
+    "Cut squash in half, cut onion into quarters, mix butter, brown sugar and onion quarters, put into squash where seeds come out.",
+    "Place face down on foil wrapped cookie sheet.  Bake for one hour at 400 degrees",
+    "Scoop out into a bowl and add butter."
+  ],
+  "metadata": {
+    "originalTitle": "ANNE LAGARCE’S ACORN SQUASH",
+    "ingest": {
+      "pipelineVersion": "0.1.0",
+      "sourcePath": "bowman.txt",
+      "sourceLines": {
+        "start": 2118,
+        "end": 2140
+      }
+    },
+    "author": "Anne Lagarce"
+  }
+}
